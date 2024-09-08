@@ -1,0 +1,23 @@
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 300px;
+  border: 1px solid #000;
+  border-radius: 8px;
+  padding: 12px 10px;
+}
+
+.fieldWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.fieldWrapper span {
+  color: #ff0000;
+}
+
+.contactForm button {
+  width: 150px;
+  margin: 8px auto 8px auto;
+}

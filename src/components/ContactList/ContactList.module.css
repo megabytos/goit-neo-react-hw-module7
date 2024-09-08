@@ -1,0 +1,14 @@
+.contactsList {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.contactsList li {
+  display: flex;
+  gap: 10px;
+  width: 270px;
+  padding: 10px 10px 12px 10px;
+  border: 1px solid #000;
+  border-radius: 8px;
+}
